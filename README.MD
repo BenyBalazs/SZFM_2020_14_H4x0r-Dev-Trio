@@ -11,6 +11,8 @@ A cégünk jelenleg papíron vezeti, a könyvelését és ez nagyban megnehezít
   Szeretnénk a menet közben felmerülő problémákat is hozzáadni és ha az ügyfél jóváhagyja akkor ezeket javítani is. Valamint az alkatrészeket is szeretnénk ilyen módon nyomonkövetni a programmal
 
 - **A programmal tudjuk nyomonkövetni a költségeket**
-- **A programmal tudjuk nyomon követni az munkavégéz állapotát**
 
-   A műhelyben áll, dolgozik rajta valaki, elkészült.
+    A program legyen képes a javítás közbeni költségek nyomonkövetésére. Például a javítás közben felhasznált alkatrészek árát számontartani, a munka végzés árát. Végül pedig adjon egy végösszeget.
+- **A programmal tudjuk nyomon követni az munkavégzés állapotát**
+
+   Legyen lehetőség a munkavégzés állapotát nyomonkövetni. Ez alatt az értendő, hogy az autó javítása még nincs elkezdve, a szerelő épp most dolgozik az autón, vagy a javítás befejeződött és készen áll arra, hogy a tulajdonos átvegye.
